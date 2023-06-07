@@ -12,5 +12,5 @@ the different titles available on Netflix.
 ### Findings
 From the dashboard, we can find details about a specific movie/tv show such as the description, genre and the date it was added to netflix.
 This is useful for getting info at a glance.<BR>
-We can also see that documentaries make up the biggest genre of Netflix's catalogue with the top 10 presented.<BR>
+We can also see that documentaries make up the biggest genre of Netflix's catalogue with 299 documentaries available.<BR>
 Finally, 2019 was the year the most movies & tv shows were added with 1546 and 803 respectively.  
